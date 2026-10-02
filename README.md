@@ -235,4 +235,4 @@ This repository serves as the official landing page for Unvanquished. The softwa
 **Get the most recent version of Unvanquished today!**
 
 ---
-**Last updated:** 2026-10-02 15:30:35 UTC
+**Last updated:** 2026-10-02 20:27:40 UTC
